@@ -1,0 +1,13 @@
+{
+  "appId": "com.gel.test_geo_bg",
+  "appName": "test_geo",
+  "webDir": "dist",
+  "android": {
+    "useLegacyBridge": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
